@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "piglatin"
+name = "pig_latin"
 version = "0.1.0"
